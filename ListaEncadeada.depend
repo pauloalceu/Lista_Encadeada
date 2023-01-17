@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1673977967 source:c:\users\raquel bittar\desktop\listaencadeada\listaencadeada.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+
+1673978234 c:\users\raquel bittar\desktop\listaencadeada\listaencadeada.h
+
+1673978089 source:c:\users\raquel bittar\desktop\listaencadeada\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.c"
+
+1673978214 c:\users\raquel bittar\desktop\listaencadeada\listaencadeada.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaEncadeada.h"
+
